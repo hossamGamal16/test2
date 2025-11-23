@@ -1,6 +1,3 @@
 this is the first test
 
-asdfghjkl;
-kjbjb
-dfghjk
 test
